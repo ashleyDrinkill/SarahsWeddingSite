@@ -114,6 +114,7 @@ class RSVP extends Component {
                         </p>
                     </div>
                 </div>
+                <hr style={{width:'50%',marginLeft:'auto',marginRight:'auto'}}></hr>
                 <div className="row">
                     <div className="col-3"></div>
                     <div className="col-8">

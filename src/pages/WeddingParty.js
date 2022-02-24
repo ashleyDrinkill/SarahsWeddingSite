@@ -124,16 +124,14 @@ class WeddingParty extends Component {
                     <div className="col-6">
                         <div className="row">
                             <div className="col-4">
-                                Enter Name Here <br/>
-                                <div style={{color: '#707070'}}>Enter Role Here</div>
+                                Connor Minshull <br/>
+                                <div style={{color: '#707070'}}>Groomsman</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                                I met Brady when we were in highschool, and we quickly became friends towards the end of grade 12. We weren't super close 
+                                until shortly after highschool when I joined a youth group with him as leaders, and there we started becoming great friends.
+                                We've been good friends ever since, and he helped me through a lot in my faith in our early adult life, which I'll forever
+                                be thankful for. 
                             </div>
                         </div>
                     </div>
@@ -158,16 +156,11 @@ class WeddingParty extends Component {
                     <div className="col-6">
                         <div className="row">
                             <div className="col-4">
-                                Enter Name Here <br/>
-                                <div style={{color: '#707070'}}>Enter Role Here</div>
+                                Asher McColman <br/>
+                                <div style={{color: '#707070'}}>Groomsman</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                                I am Bradys youngest brother and we play video games and talk about TV shows. 
                             </div>
                         </div>
                     </div>
@@ -176,7 +169,7 @@ class WeddingParty extends Component {
                     <div className="col-6">
                         <div className="row">
                             <div className="col-4">
-                                Kelsie  <br/>
+                                Kelsie Wert<br/>
                                 <div style={{color: '#707070'}}>Bridesmaid</div>
                             </div>
                             <div className="col-8">

@@ -23,7 +23,7 @@ class Venue extends Component {
                 <div className="row">
                     <div className="col-6">
                         <div className="justify-content center">
-                            <img className="rounded w-75 h-75 VenuePicture" src={venuepic} alt="Venue Picture"/>
+                            <img className="rounded w-75 h-75 VenuePicture" src={venuepic} alt="Venue Lights"/>
                         </div>
                     </div>
                     <div className="col-6">
