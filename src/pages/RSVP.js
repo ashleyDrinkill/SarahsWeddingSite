@@ -1,7 +1,6 @@
 import { Component } from "react/cjs/react.production.min";
 import TopNav from '../components/TopNav.js';
 import SideFlower from '../components/sideFlower.js';
-import PlusOne from '../components/plusOne.js';
 import { send } from 'emailjs-com';
 
 class RSVP extends Component {
@@ -89,7 +88,7 @@ class RSVP extends Component {
 
     render() {
         return(
-            <div className="container-fluid">
+            <div className="container-fluid p-0 m-0">
                 <div className="row">
                     <div className='col position-absolute'>
                         <SideFlower />

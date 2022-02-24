@@ -6,7 +6,7 @@ import venuepic from '../style/venuepic.jpg';
 class Venue extends Component {
     render() {
         return(
-            <div className="container-fluid">
+            <div className="container-fluid p-0 m-0">
                 <div className="row">
                     <div className='col position-absolute'>
                         <SideFlower />
