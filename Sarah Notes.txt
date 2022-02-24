@@ -1,0 +1,28 @@
+Accomodations
+	1 main hotel, with a floor booked, there will be a code
+		might be a driver for this hotel to the venue
+	2 campground ideas that are close by 
+	
+Registry Page
+	list of links to the stores on the registry
+	cute way to say money also accepted ahaha
+	
+RSVP 
+	send to wedding email address
+	try to have list that checks if +1 allowed (list of valid names)
+	**add note for no kids (only nursing babies or approved)
+	
+	Name
+	Mailing Address
+	Will you be attending the reception?
+	
+	Bringing +1? Get their full name
+	
+	Dietary concerns/allergies ? buffet style food
+	
+	Song requests? optional field.
+	
+	might be couple that are only at one/other?
+	
+	
+	

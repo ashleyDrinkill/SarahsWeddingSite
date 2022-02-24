@@ -1,0 +1,50 @@
+body {
+    background-color: #F7F8F6;
+    font-family: 'Faustina', 'Waterfall', 'Times New Roman', Times, serif;
+}
+
+.flower {
+    width: 20%;
+    height: auto;
+}
+
+.NavBar {
+    display: table;
+    margin: 0 auto;
+}
+
+.NavBar li {
+    display: inline;
+    font-size: 115%;
+    float: left;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.NavBar li a {
+    color: #383E3A;
+    text-decoration: none;
+}
+
+.NavBar li a:hover {
+    color: #B94700;
+    text-decoration: none;
+}
+
+.VenuePicture {
+    width: auto;
+    height: 60vh;
+    margin-left: 5%;
+}
+
+a {
+    color: #B94700;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #B94700;
+    text-decoration: underline;
+}
