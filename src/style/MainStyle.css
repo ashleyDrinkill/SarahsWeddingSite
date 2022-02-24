@@ -48,3 +48,12 @@ a:hover {
     color: #B94700;
     text-decoration: underline;
 }
+
+.buttonPrimary {
+    background-color: #B94700;
+    border: solid black;
+}
+
+.buttonPrimary:hover {
+    background-color: #bd6833;
+}
