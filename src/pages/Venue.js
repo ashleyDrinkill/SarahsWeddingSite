@@ -17,21 +17,21 @@ class Venue extends Component {
                 </div>
                 <div className="row">
                     <div className="d-flex justify-content-center p-3">
-                        <div><h1 style={{ fontSize: '300%' }}>Venue</h1></div>
+                        <div><h1 style={{ fontSize: '275%', textTransform: 'uppercase'}}>Venue</h1></div>
                     </div>
                 </div>
                 <div className="row">
                     <div className="col-6">
-                        <div className="justify-content center">
+                        <div className="d-flex justify-content-center">
                             <img className="rounded w-75 h-75 VenuePicture" src={venuepic} alt="Venue Lights"/>
                         </div>
                     </div>
                     <div className="col-6">
                         <div className="row">
-                            <div><b>Venue Name:</b> White Tail Woods Wedding and Event Centre</div>
-                            <div><b>Venue Address:</b> B 48235 Range Rd 10 Rural, AB T0C 2P0</div>
-                            <div><b>Google Maps Link:</b> <a href="https://www.google.com/maps/place/White+Tail+Woods+-+Weddings+%26+Events/@53.1467543,-114.0000254,17z/data=!3m1!4b1!4m5!3m4!1s0x539fddc002173385:0xce5c59690f0a38e!8m2!3d53.1467543!4d-113.9978314">Google Maps</a></div>
-                            <div>
+                            <div><h4>White Tail Woods Wedding and Event Centre</h4></div>
+                            <div className="ps-4"><b>Address:</b> B 48235 Range Rd 10 Rural, AB T0C 2P0</div>
+                            <div className="ps-4"><b>Google Maps Link:</b> <a href="https://www.google.com/maps/place/White+Tail+Woods+-+Weddings+%26+Events/@53.1467543,-114.0000254,17z/data=!3m1!4b1!4m5!3m4!1s0x539fddc002173385:0xce5c59690f0a38e!8m2!3d53.1467543!4d-113.9978314">Google Maps</a></div>
+                            <div className="ps-4">
                                 <b>Directions from Edmonton (Highway 2): </b>
                                 <ul style={{listStyleType: 'square'}}>
                                     <li>Take the Queen Elizabeth II Highway south out of Edmonton</li>

@@ -16,22 +16,21 @@ class Accomodations extends Component {
                 </div>
                 <div className="row">
                     <div className="d-flex justify-content-center p-3">
-                        <div><h1 style={{ fontSize: '300%' }}>Accomodations</h1></div>
+                        <div><h1 style={{ fontSize: '275%', textTransform: 'uppercase'}}>Accomodations</h1></div>
                     </div>
                 </div>
                 <div className="row m-3">
+                    <div className="col-3"></div>
                     <div className="col-6">
                         <div className="row">
-                            <div className="col d-flex justify-content-center">
+                            <div className="col">
                                 <h3>Hotel Booking</h3>
                             </div>
                         </div>
                         <div className="row">
                             <div className="col">
                                 <p>
-                                    This hotel is the main hotel being used for the wedding weekend. There are 17 rooms blocked off for the occassion so
-                                    if you would like a room here give yourself lots of time to book in advance. There may be a shuttle running for the day 
-                                    of the wedding that runs from the venue to the hotel for convenience; however, it is not confirmed at this time.
+                                    This is the main hotel being used for the wedding weekend. There are 17 rooms blocked off for the occassion.
                                 </p>
                             </div>
                         </div>
@@ -71,10 +70,8 @@ class Accomodations extends Component {
                                 </ul>
                             </div>
                         </div>
-                    </div>
-                    <div className="col-6">
                         <div className="row">
-                            <div className="col d-flex justify-content-center">
+                            <div className="col">
                                 <h3>Other Accomodation Ideas</h3>
                             </div>
                         </div>

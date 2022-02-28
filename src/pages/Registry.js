@@ -16,11 +16,11 @@ class Registry extends Component {
                 </div>
                 <div className="row">
                     <div className="d-flex justify-content-center p-3">
-                        <div><h1 style={{ fontSize: '300%' }}>Registry</h1></div>
+                        <div><h1 style={{ fontSize: '275%', textTransform: 'uppercase'}}>Registry</h1></div>
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col">
+                    <div className="col d-flex justify-content-center">
                         Information regarding the registry will be released shortly.
                     </div>
                 </div>

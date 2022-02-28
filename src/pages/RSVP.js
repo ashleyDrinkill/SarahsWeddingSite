@@ -14,7 +14,16 @@ class RSVP extends Component {
             plusOneName : "",
             dietary : "",
             songs : "",
-            plusOneList : ["Megan Bishop", "Ashley Drinkill", "Allison Spinner", "Cai Pare"],
+            plusOneList : ["Ashley Drinkill", "Allison Spinner", "Heather Christenson", "Gary Christenson", 
+                            "Jeff Christenson", "Randy Christenson", "Diane Christenson", "Lynne Christenson",
+                            "Greg Christenson", "Jill Didow", "Becky Moostoos", "Dale Moostoos", "Amy Richards",
+                            "Locke Richards", "David Christenson", "Noelle Christenson", "Crystal Giraudier", 
+                            "Gregory Giraudier", "Haley Rude", "Ben Rude", "Dane Christenson", "Hannah Christenson",
+                            "Brad Timms", "Linda Timms", "John Spencer", "Linda Spencer", "Susan Beatch", 
+                            "Michelle Beatch", "Wendy Beatch", "Rob Beatch", "Brent Belland", "Chelsea Iverson",
+                            "Cory Iverson", "Hannah Sheppard", "Megan Armstrong", "Marilyn Armstrong", "Trevor Armstrong",
+                            "Haley Beatch", "Shannon McColman", "Rod McColman", "Colleen Church", "Calvin Church",
+                            "Trevor McColman", "John Ozdan", "Evelyn Ozdan", "Patrick Church"],
             hasPlusOne : false
         };
     }
@@ -99,7 +108,7 @@ class RSVP extends Component {
                 </div>
                 <div className="row">
                     <div className="d-flex justify-content-center p-3 pb-2">
-                        <div><h1 style={{ fontSize: '300%' }}>RSVP</h1></div>
+                        <div><h1 style={{ fontSize: '275%', textTransform: 'uppercase'}}>RSVP</h1></div>
                     </div>
                 </div>
                 <div className="row">
@@ -109,8 +118,8 @@ class RSVP extends Component {
                 </div>
                 <div className="row">
                     <div className="col d-flex justify-content-center">
-                        <p>** Although we love your little ones, this is an event for 16 years old and up 
-                            with the exception of nursing babies **
+                        <p>Although we love your little ones, this is an event for 16 years old and up 
+                            with the exception of nursing babies
                         </p>
                     </div>
                 </div>
@@ -120,10 +129,10 @@ class RSVP extends Component {
                     <div className="col-8">
                         <div className="row p-3 mt-3">
                         <div className="col-4">
-                            Enter first and last name as seen on your invitation: 
+                            Enter first and last name as seen on your email: 
                         </div>
                         <div className="col-6">
-                            <input type='text' value={this.state.fullname} placeholder="Enter full name" size="40" onChange={this.handleName} onBlur={this.checkName}></input>
+                            <input type='text' value={this.state.fullname} size="40" onChange={this.handleName} onBlur={this.checkName}></input>
                         </div>
                     </div>
                     <div className="row p-3">
@@ -131,7 +140,7 @@ class RSVP extends Component {
                             Enter Mailing Address:
                         </div>
                         <div className="col-6">
-                            <input type='text' value={this.state.mailing} placeholder="Enter full mailing address" size="40" onChange={this.handleMailing}></input>
+                            <input type='text' value={this.state.mailing} size="40" onChange={this.handleMailing}></input>
                         </div>
                     </div>
                     <div className="row p-3">
@@ -170,25 +179,25 @@ class RSVP extends Component {
                             Do you have any dietary restrictions? Add them here
                         </div>
                         <div className="col-6">
-                            <textarea value={this.state.dietary} placeholder="Enter dietary restrictions here" rows="3" cols="40" onChange={this.handleDietary}></textarea>
+                            <textarea value={this.state.dietary} rows="3" cols="40" onChange={this.handleDietary}></textarea>
                         </div>
                     </div>
                     <div className="row p-3">
                         <div className="col-4">
-                            If you have any song requests, include them here!
+                            Is there a song you love to dance to? If so, include your request here !
                         </div>
                         <div className="col-6">
-                            <textarea value={this.state.songs} placeholder="Limit to 2-3 songs please" rows="3" cols="40" onChange={this.handleSongs}></textarea>
+                            <textarea value={this.state.songs} rows="3" cols="40" onChange={this.handleSongs}></textarea>
                         </div>
                     </div>
-                    <div className="row p-3">
-                        <div className="col-10 d-flex justify-content-center">
-                            <button type="button" className="btn btn-lg buttonPrimary" onClick={this.sendForm}>Submit RSVP</button>
-                        </div>
-                    </div>
+                </div>
+                <div className="row p-3">
+                    <div className="col d-flex justify-content-center">
+                        <button type="button" className="btn btn-lg buttonPrimary" onClick={this.sendForm}>Submit RSVP</button>
                     </div>
                 </div>
             </div>
+        </div>
         )
     }
 }

@@ -16,12 +16,12 @@ class Schedule extends Component {
                 </div>
                 <div className="row">
                     <div className="d-flex justify-content-center p-3">
-                        <div><h1 style={{ fontSize: '300%' }}>Schedule</h1></div>
+                        <div><h1 style={{ fontSize: '275%', textTransform: 'uppercase'}}>Schedule</h1></div>
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col">
-                        This is where you will find the schedule for the day of the wedding. You can expect it to be released in May.
+                    <div className="col d-flex justify-content-center">
+                        This is where you will find the schedule for the day of the wedding. You can expect it to be released closer to the wedding day.
                     </div>
                 </div>
             </div>

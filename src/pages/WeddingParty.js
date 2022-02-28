@@ -144,12 +144,8 @@ class WeddingParty extends Component {
                                 <div style={{color: '#707070'}}>Bridesmaid</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                            I've known Sarah since elementary school, but I wasn't her friend until junior high— and even then, I wasn't sure if I really liked 
+                            her. Lucky for me, I quickly realized that Sarah is a really hard person not to like, and she has been one of my closest friends since. I have many memories of wine nights, weekend trips, and more that I deeply cherish. Many of those wine nights were spent listening to Sarah as she denied that Brady had any feelings for her— they were just friends. I am so excited to be included in their wedding day and get to say, “I told you so."
                             </div>
                         </div>
                     </div>
@@ -189,16 +185,13 @@ class WeddingParty extends Component {
                     <div className="col-6">
                         <div className="row">
                             <div className="col-4">
-                                Enter Name Here <br/>
-                                <div style={{color: '#707070'}}>Enter Role Here</div>
+                                Walter Bonilla <br/>
+                                <div style={{color: '#707070'}}>Groomsman</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                            I met Brady through younglife a few years ago. We got close because of our love for sports and standup comedy. Our relationship grew deeper 
+                            when he forced me to live with him for a year. That's when I really got to see how well him and Sarah worked together as a couple even though 
+                            she would steal my coffee all the time.
                             </div>
                         </div>
                     </div>
@@ -215,7 +208,7 @@ class WeddingParty extends Component {
                                 bully towards her (I cant believe it either). I can only thank the gods that she had the heart to forgive me the many years later when 
                                 we connected again. Since highschool, Sarah and I have shared many crazy adventures, including mountain trips, wine nights, and many more!
                                 I am so thankful that I can call her one of my closest friends. All the times I've spent with Brady and Sarah as a couple makes me realize 
-                                how compatible they are for eachother. I cannot wait to see what shenanigans they get up to at the wedding, a couple with that sense of 
+                                how great they are together. I cannot wait to see what shenanigans they get up to at the wedding, a couple with that sense of 
                                 humor must hava some stuff up their sleeves!
                             </div>
                         </div>
@@ -223,16 +216,13 @@ class WeddingParty extends Component {
                     <div className="col-6">
                         <div className="row">
                             <div className="col-4">
-                                Enter Name Here <br/>
-                                <div style={{color: '#707070'}}>Enter Role Here</div>
+                                Chase McColman <br/>
+                                <div style={{color: '#707070'}}>Groomsman</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                            Brady's my oldest brother and has always been a role model for me. He always somehow convinced me to come out to youth group or whatever weird 
+                            sport he was playing at the time like spikeball or tennis. Seeing him getting married is crazy to imagine because until recently the guy didn't
+                             really have great game but it's awesome to see the connection him and Sarah have and I'm super excited for them.
                             </div>
                         </div>
                     </div>
@@ -245,28 +235,24 @@ class WeddingParty extends Component {
                                 <div style={{color: '#707070'}}>Bridesmaid</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                            Sarah and I started out as summer camp pals, where I also met Brady. We volunteered together and quickly became close. 
+                            We've gone on rafting and camping trips together, we worked together, and now Sarah and I are roommates until their big day! 
+                            Our lives have been weaved together in so many different ways. Now, every time either of us have a big win in life, we have 
+                            a dance party in our apartment to Doja Cat's “Woman.” You'll catch me on the dance floor when that song comes on to celebrate 
+                            this incredible woman and her man. I'm so excited for both Sarah and Brady as they enter into this next chapter of life together!
                             </div>
                         </div>
                     </div>
                     <div className="col-6">
                         <div className="row">
                             <div className="col-4">
-                                Enter Name Here <br/>
-                                <div style={{color: '#707070'}}>Enter Role Here</div>
+                                Spencer Burchett <br/>
+                                <div style={{color: '#707070'}}>Groomsman</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                            Brady and I met at a church event in 2015. Since then, Brady and I have become tennis rivals, travelled the world together 
+                            (or at least to Portland), and even lived together for over a year. While I pretend to hate it, Brady's knack for making 
+                            puns is a key part of our friendship.
                             </div>
                         </div>
                     </div>
