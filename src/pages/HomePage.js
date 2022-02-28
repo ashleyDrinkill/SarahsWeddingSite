@@ -26,7 +26,7 @@ class HomePage extends Component{
                     </div>
                 </div>
                 <div className='row'>
-                    <img src={mainpagephoto} alt='Sarah and Brady Couple Picture'/>
+                    <img src={mainpagephoto} alt='Sarah and Brady Couple'/>
                 </div>
             </div>
         )
