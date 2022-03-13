@@ -124,7 +124,7 @@ class RSVP extends Component {
                 </div>
                 <div className="row">
                     <div className="col d-flex justify-content-center">
-                        <h3 style={{fontFamily:'waterfall'}}>Please RSVP by July 16, 2022</h3>
+                        <h3 style={{fontFamily:'waterfall'}}>Please RSVP by July 1, 2022</h3>
                     </div>
                 </div>
                 <div className="row">
