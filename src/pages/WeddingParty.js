@@ -29,12 +29,12 @@ class WeddingParty extends Component {
                                 <div style={{color: '#707070'}}>Bride and Groom</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                            The first time we met, we didn't even know we had met. We both attended the same high school, went to the same events, 
+                            and had many mutual friends. It wasn't until we both volunteered together that we discovered one another's love for 
+                            super cool (definitely not lame) music, rock climbing, and making one another laugh. Friendship was immediate and then 
+                            came the love part. After nearly 5 years together we still love cool (but now slightly lame) music, climbing lots of 
+                            rocks, and bringing tremendous amounts of joy to one another. We cannot wait to grow older and deeper in love not only 
+                            as best friends but also as soulmates.
                             </div>
                         </div>
                     </div>
@@ -112,12 +112,12 @@ class WeddingParty extends Component {
                                 <div style={{color: '#707070'}}>Bridesman</div>
                             </div>
                             <div className="col-8">
-                                Enter Information here
-                                Integer luctus vitae eros vel feugiat. Vestibulum nulla mi, sagittis in mi in, porta pellentesque arcu. Pellentesque 
-                                habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor tellus interdum 
-                                leo vestibulum condimentum. Etiam dapibus, dolor vitae porta fringilla, mauris justo tempus nisi, at finibus arcu mi 
-                                a est. Aenean nunc ex, dictum id aliquet sed, efficitur sed urna. In tincidunt nisi metus, in mollis libero suscipit 
-                                ornare. Proin molestie enim ac erat maximus, in elementum eros mattis.
+                            I've known Sarah back from our highschool days. Since then she's been a loyal friend. And I'm blessed to be a 
+                            part of this wedding day. I remember the first time she told me her and Brady were an item. It was when I had 
+                            gotten back from living in Ireland and we took a long walk through river valley to catch up on the months we'd 
+                            been a part. it was crazy to have been a part for roughly 5 months and in that time they had developed a relationship. 
+                            It's been a privilege to see Brady and Sarah grow and to see my best friend fall in love with someone like Brady.
+
                             </div>
                         </div>
                     </div>
@@ -145,7 +145,10 @@ class WeddingParty extends Component {
                             </div>
                             <div className="col-8">
                             I've known Sarah since elementary school, but I wasn't her friend until junior high— and even then, I wasn't sure if I really liked 
-                            her. Lucky for me, I quickly realized that Sarah is a really hard person not to like, and she has been one of my closest friends since. I have many memories of wine nights, weekend trips, and more that I deeply cherish. Many of those wine nights were spent listening to Sarah as she denied that Brady had any feelings for her— they were just friends. I am so excited to be included in their wedding day and get to say, “I told you so."
+                            her. Lucky for me, I quickly realized that Sarah is a really hard person not to like, and she has been one of my closest friends since. 
+                            I have many memories of wine nights, weekend trips, and more that I deeply cherish. Many of those wine nights were spent listening to 
+                            Sarah as she denied that Brady had any feelings for her— they were just friends. I am so excited to be included in their wedding day 
+                            and get to say, “I told you so."
                             </div>
                         </div>
                     </div>
