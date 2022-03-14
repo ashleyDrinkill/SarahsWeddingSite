@@ -35,7 +35,8 @@ class RSVP extends Component {
                             "David Huang", "Bella Huang", "Abe Zabala", "Samara Zabala", "Sam Faszer", "Beth", "Eric Moon", 
                             "Kaitlyn Moon", "Spencer Burchett", "April Kerr", "Connor Minshull", "Miriam Dewar", "Sam McColman", 
                             "Chloe McColman", "Asher McColman", "Brenna Zazulak", "David Kotlewski", "Alisha Sims"],
-            hasPlusOne : false
+            hasPlusOne : false,
+            buttonClicked : false
         };
     }
 
@@ -92,6 +93,7 @@ class RSVP extends Component {
             dietary: this.state.dietary,
             songs: this.state.songs
         };
+        buttonClicked = true;
         send(
             'service_m65ihgd',
             'template_d1pgqlo', 
@@ -205,6 +207,11 @@ class RSVP extends Component {
                 <div className="row p-3">
                     <div className="col d-flex justify-content-center">
                         <button type="button" className="btn btn-lg buttonPrimary" onClick={this.sendForm}>Submit RSVP</button>
+                    </div>
+                </div>
+                <div className="row p-3">
+                    <div className="col d-flex justify-content-center">
+                        {buttonClicked ? "Thanks for your RSVP" : null}
                     </div>
                 </div>
             </div>
