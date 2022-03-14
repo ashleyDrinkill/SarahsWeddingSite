@@ -74,8 +74,6 @@ class RSVP extends Component {
         this.setState({ hasPlusOne: false});
         for(var i = 0; i < this.state.plusOneList.length; i++) {
             var currName = this.state.plusOneList.at(i);
-            console.log("Indexed name: " + currName);
-            console.log("Entered name: " + this.state.fullname);
             if(currName === this.state.fullname){
                 this.setState({ hasPlusOne: true});
                 break;
