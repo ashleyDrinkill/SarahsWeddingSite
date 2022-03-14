@@ -50,12 +50,10 @@ class RSVP extends Component {
 
     handleAttending = (e) => {
         this.setState({ attending: e.target.value });
-        console.log("attending: " + this.state.attending);
     }
 
     handlePlusOne = (e) => {
         this.setState({ bringingPlusOne: e.target.value });
-        console.log("plusone: " + this.state.bringingPlusOne);
     }
 
     handlePlusOneName = (e) => {
