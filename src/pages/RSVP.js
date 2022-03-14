@@ -36,7 +36,7 @@ class RSVP extends Component {
                             "Kaitlyn Moon", "Spencer Burchett", "April Kerr", "Connor Minshull", "Miriam Dewar", "Sam McColman", 
                             "Chloe McColman", "Asher McColman", "Brenna Zazulak", "David Kotlewski", "Alisha Sims"],
             hasPlusOne : false,
-            buttonClicked : false
+            rsvplist : []
         };
     }
 
@@ -93,7 +93,6 @@ class RSVP extends Component {
             dietary: this.state.dietary,
             songs: this.state.songs
         };
-        buttonClicked = true;
         send(
             'service_m65ihgd',
             'template_d1pgqlo', 
@@ -102,6 +101,7 @@ class RSVP extends Component {
         )
         .then((response) => {
             console.log("SUCCESS!", response.status, response.text);
+            this.setState({ buttonClicked : true});
         })
         .catch((err) => {
             console.log("FAILED...", err);
@@ -211,7 +211,7 @@ class RSVP extends Component {
                 </div>
                 <div className="row p-3">
                     <div className="col d-flex justify-content-center">
-                        {buttonClicked ? "Thanks for your RSVP" : null}
+                        {this.state.buttonClicked ? "Thanks for your RSVP" : null}
                     </div>
                 </div>
             </div>
