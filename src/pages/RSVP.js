@@ -99,7 +99,7 @@ class RSVP extends Component {
             console.log("SUCCESS!", response.status, response.text);
             this.setState({ buttonClicked : true});
             alert("Thank you for your RSVP!");
-            window.location.reload(true);
+            this.setState({songs: "", dietary: "", plusOneName: "", bringingPlusOne: "", attending: "", mailing: "", fullname: ""})
         })
         .catch((err) => {
             console.log("FAILED...", err);
