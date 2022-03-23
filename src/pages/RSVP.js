@@ -98,6 +98,8 @@ class RSVP extends Component {
         .then((response) => {
             console.log("SUCCESS!", response.status, response.text);
             this.setState({ buttonClicked : true});
+            alert("Thank you for your RSVP!");
+            window.location.reload();
         })
         .catch((err) => {
             console.log("FAILED...", err);
