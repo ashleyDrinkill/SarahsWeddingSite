@@ -234,7 +234,7 @@ class WeddingParty extends Component {
                     <div className="col-6">
                         <div className="row">
                             <div className="col-4">
-                                Emily Vilsack <br/>
+                                Emily Vilcsak <br/>
                                 <div style={{color: '#707070'}}>Bridesmaid</div>
                             </div>
                             <div className="col-8">
