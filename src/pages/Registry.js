@@ -21,7 +21,22 @@ class Registry extends Component {
                 </div>
                 <div className="row">
                     <div className="col d-flex justify-content-center">
-                        Information regarding the registry will be released shortly.
+                        Please click the below link to access the registry:                    
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="col mb-5 d-flex justify-content-center">
+                        <a href='https://www.myregistry.com/wedding-registry/sarah-christenson-and-brady-mccolman-st-albert-alberta-/3251941' target={"_blank"}>Sarah and Brady's Wedding Registy</a>
+                  </div>
+                </div>
+                <div className="row">
+                    <div className="col d-flex justify-content-center">
+                    The mailing address provided, 45 Dufferin Street St. Albert AB T8N 5R5, can be used to ship 
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="col d-flex justify-content-center">
+                    gifts to; however, you are more than welcome to ship them to your own address.
                     </div>
                 </div>
             </div>
