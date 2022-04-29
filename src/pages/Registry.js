@@ -26,7 +26,7 @@ class Registry extends Component {
                 </div>
                 <div className="row">
                     <div className="col mb-5 d-flex justify-content-center">
-                        <a href='https://www.myregistry.com/wedding-registry/sarah-christenson-and-brady-mccolman-st-albert-alberta-/3251941' target={"_blank"} rel="noreferrer noopener">Sarah and Brady's Wedding Registy</a>
+                        <a href='https://www.myregistry.com/wedding-registry/sarah-christenson-and-brady-mccolman-st-albert-alberta-/3251941' target={"_blank"} rel="noreferrer noopener" style={{fontFamily: "waterfall", fontSize: '250%'}}>Sarah and Brady's Wedding Registy</a>
                   </div>
                 </div>
                 <div className="row">
