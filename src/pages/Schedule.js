@@ -20,7 +20,7 @@ class Schedule extends Component {
                     </div>
                 </div>
                 <hr style={{width:'75%',marginLeft:'auto',marginRight:'auto'}}></hr>
-                <div className="row ms-5 me-5">
+                {/* <div className="row ms-5 me-5">
                     <div className="col"></div>
                     <div className="col">
                         <div className="row mb-0">
@@ -112,84 +112,84 @@ class Schedule extends Component {
                     <div className="col d-flex justify-content-center">
                         Please bring cash for our toonie bar as debit or credit will not be accepted.
                     </div>
-                </div>
+                </div> */}
                 
-{/*                 
+                
                 <div className="row mb-0">
                     <div className="col d-flex justify-content-center">
-                        <h3 style={{fontFamily: "waterfall", fontWeight: 600}} className='m-0'>2:00</h3>
+                        <h1 style={{fontFamily: "waterfall", fontWeight: 500}} className='m-0'>Ceremony</h1>
                     </div>
                 </div>
                 <div className="row mb-3">
-                    <div className="col d-flex justify-content-center">
-                        Ceremony
-                    </div>
-                </div>
-                <div className="row mb-0">
-                    <div className="col d-flex justify-content-center">
-                        <h3 style={{fontFamily: "waterfall", fontWeight: 600}} className="m-0">3:00</h3>
-                    </div>
-                </div>
-                <div className="row mb-3">
-                    <div className="col d-flex justify-content-center">
-                        Cocktails and Games
+                    <div className="col d-flex justify-content-center align-items-end">
+                        <div className="m-0">2:00PM</div>
                     </div>
                 </div>
                 <div className="row mb-0">
                     <div className="col d-flex justify-content-center">
-                        <h3 style={{fontFamily: "waterfall", fontWeight: 600}} className="m-0">5:00</h3>
+                        <h1 style={{fontFamily: "waterfall", fontWeight: 500}} className="m-0">Cocktails and Games</h1>
                     </div>
                 </div>
                 <div className="row mb-3">
                     <div className="col d-flex justify-content-center">
-                        Reception
+                        <div className="m-0">3:00PM</div>
                     </div>
                 </div>
                 <div className="row mb-0">
                     <div className="col d-flex justify-content-center">
-                        <h3 style={{fontFamily: "waterfall", fontWeight: 600}} className="m-0">5:30</h3>
+                        <h1 style={{fontFamily: "waterfall", fontWeight: 500}} className="m-0">Reception</h1>
                     </div>
                 </div>
                 <div className="row mb-3">
                     <div className="col d-flex justify-content-center">
-                        Dinner
+                    <div className="m-0">5:00PM</div>
                     </div>
                 </div>
                 <div className="row mb-0">
                     <div className="col d-flex justify-content-center">
-                        <h3 style={{fontFamily: "waterfall", fontWeight: 600}} className="m-0">8:00</h3>
+                        <h1 style={{fontFamily: "waterfall", fontWeight: 500}} className="m-0">Dinner</h1>
                     </div>
                 </div>
                 <div className="row mb-3">
                     <div className="col d-flex justify-content-center">
-                        Dance
+                    <div className="m-0">5:30PM</div>
                     </div>
                 </div>
                 <div className="row mb-0">
                     <div className="col d-flex justify-content-center">
-                        <h3 style={{fontFamily: "waterfall", fontWeight: 600}} className="m-0">10:00</h3>
+                        <h1 style={{fontFamily: "waterfall", fontWeight: 500}} className="m-0">Dance</h1>
                     </div>
                 </div>
                 <div className="row mb-3">
                     <div className="col d-flex justify-content-center">
-                        Campfire Snack
+                    <div className="m-0">8:00PM</div>
                     </div>
                 </div>
                 <div className="row mb-0">
                     <div className="col d-flex justify-content-center">
-                        <h3 style={{fontFamily: "waterfall", fontWeight: 600}} className="m-0">12:00</h3>
+                        <h1 style={{fontFamily: "waterfall", fontWeight: 500}} className="m-0">Campfire Snack</h1>
                     </div>
                 </div>
                 <div className="row mb-3">
                     <div className="col d-flex justify-content-center">
-                        Farewell
+                        10:00PM
+                    </div>
+                </div>
+                <div className="row mb-0">
+                    <div className="col d-flex justify-content-center">
+                        <h1 style={{fontFamily: "waterfall", fontWeight: 500}} className="m-0">Farewell</h1>
+                    </div>
+                </div>
+                <div className="row mb-3">
+                    <div className="col d-flex justify-content-center">
+                        12:00AM
                     </div>
                 </div>
                 <div className="row mb-3">
                     <div className="col d-flex justify-content-center">
                         Please bring cash for our toonie bar as debit or credit will not be accepted.
                     </div>
-                </div> */}
+                </div>
             </div>
         )
     }
